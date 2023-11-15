@@ -6,7 +6,7 @@
 
 <h1>ims-indexed-db</h1>
 
-一个开发 npm 项目的模板
+IndexedDB 的封装，提供了简单的增删改查方法
 
 [Changelog](./CHANGELOG.md) · [Report Bug][issues-url] · [Request Feature][issues-url]
 
@@ -19,8 +19,6 @@
 [![contributors][contributors-shield]][contributors-url] [![forks][forks-shield]][forks-url] [![stargazers][stargazers-shield]][stargazers-url] [![issues][issues-shield]][issues-url]
 
 [![ docs by dumi][dumi-url]](https://d.umijs.org/) [![Build With father][father-url]](https://github.com/umijs/father/)
-
-![](https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png)
 
 <!-- gitpod url -->
 
@@ -55,15 +53,6 @@
 
 </div>
 
-## 简介
-
-这是一个开发 npm 项目的模板，具有以下特点：
-
-- 🏗️ **基于 father4 的构建工具**：本项目采用了基于 father4 的构建工具，可以更高效地构建项目，提高开发效率；
-- 📖 **基于 dumi2 的文档工具**：本项目采用了基于 dumi2 的文档工具，可以更方便地编写和管理文档，提高文档的可读性和可维护性；
-- 🚀 **基于 vercel 自动化触发文档站构建**：本项目使用 vercel 自动化触发文档站构建，可以更快地更新文档站，提高用户的使用体验；
-- 📦 **基于 semantic-release 实现 npm 包的自动化发布**：本项目使用 semantic-release 实现 npm 包的自动化发布，可以更方便地管理和发布 npm 包，提高开发效率。
-
 ## 快速上手
 
 ### 安装
@@ -73,10 +62,6 @@
 ```bash
 pnpm i ims-indexed-db -S
 ```
-
-### 使用
-
-基于该仓库模板可以快速创建一个 npm 包的工程化脚手架。
 
 详情：[CHANGELOG](./CHANGELOG.md)
 
@@ -100,7 +85,7 @@ pnpm i ims-indexed-db -S
 
 #### 📝 License
 
-Copyright © 2020 - present [eternallycyf][profile-url]. <br />
+Copyright © 2023 - present [eternallycyf][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
