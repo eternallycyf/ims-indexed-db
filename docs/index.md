@@ -1,10 +1,10 @@
 ---
 hero:
-  title: ims-template
-  description: a npm develop template
+  title: ims-indexed-db
+  description: IndexedDB 的封装，提供了简单的增删改查方法
   actions:
     - text: 快速上手
-      link: /guide
+      link: /components
     - text: Github
       link: https://github.com/eternallycyf/ims-view/
 ---

@@ -1,6 +1,6 @@
 # Changelog
 
-## [Version&nbsp;1.5.0](https://github.com/eternallycyf/ims-template/compare/v1.4.0...v1.5.0)
+## [Version&nbsp;1.5.0](https://github.com/eternallycyf/ims-indexed-db/compare/v1.4.0...v1.5.0)
 
 <sup>Released on **2023-10-28**</sup>
 
@@ -15,7 +15,7 @@
 
 #### What's improved
 
-- Update demos ([3eb0b23](https://github.com/eternallycyf/ims-template/commit/3eb0b23))
+- Update demos ([3eb0b23](https://github.com/eternallycyf/ims-indexed-db/commit/3eb0b23))
 
 </details>
 
@@ -44,11 +44,11 @@
 
 #### What's improved
 
-- **chore**: Update config ([242c4b7](https://github.com/eternallycyf/ims-template/commit/242c4b7)) - by **eternallycyf**
+- **chore**: Update config ([242c4b7](https://github.com/eternallycyf/ims-indexed-db/commit/242c4b7)) - by **eternallycyf**
 
 #### What's fixed
 
-- **tsconfig**: Typescript path ([55aba67](https://github.com/eternallycyf/ims-template/commit/55aba67)) - by **eternallycyf**
+- **tsconfig**: Typescript path ([55aba67](https://github.com/eternallycyf/ims-indexed-db/commit/55aba67)) - by **eternallycyf**
 
 </details>
 
@@ -73,7 +73,7 @@
 
 #### What's improved
 
-- Add antd lodash icon dependencies ([81b1d08](https://github.com/eternallycyf/ims-template/commit/81b1d08)) - by **eternallycyf**
+- Add antd lodash icon dependencies ([81b1d08](https://github.com/eternallycyf/ims-indexed-db/commit/81b1d08)) - by **eternallycyf**
 
 </details>
 
@@ -98,7 +98,7 @@
 
 #### What's fixed
 
-- 默认组件根路径 ([04c485c](https://github.com/eternallycyf/ims-template/commit/04c485c)) - by **eternallycyf**
+- 默认组件根路径 ([04c485c](https://github.com/eternallycyf/ims-indexed-db/commit/04c485c)) - by **eternallycyf**
 
 </details>
 
@@ -123,7 +123,7 @@
 
 #### What's improved
 
-- Update guide docs ([ed6e487](https://github.com/eternallycyf/ims-template/commit/ed6e487)) - by **eternallycyf**
+- Update guide docs ([ed6e487](https://github.com/eternallycyf/ims-indexed-db/commit/ed6e487)) - by **eternallycyf**
 
 </details>
 
@@ -148,7 +148,7 @@
 
 #### What's improved
 
-- Test npm publish ([c21101f](https://github.com/eternallycyf/ims-template/commit/c21101f)) - by **eternallycyf**
+- Test npm publish ([c21101f](https://github.com/eternallycyf/ims-indexed-db/commit/c21101f)) - by **eternallycyf**
 
 </details>
 
@@ -173,7 +173,7 @@
 
 #### What's improved
 
-- Test npm publish ([ba6cca0](https://github.com/eternallycyf/ims-template/commit/ba6cca0)) - by **eternallycyf**
+- Test npm publish ([ba6cca0](https://github.com/eternallycyf/ims-indexed-db/commit/ba6cca0)) - by **eternallycyf**
 
 </details>
 

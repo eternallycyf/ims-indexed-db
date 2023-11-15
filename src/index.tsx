@@ -1,1 +1,1 @@
-export { default as Hello } from './components/Hello';
+export { default as createIndexedDBHelper } from './components/createIndexedDBHelper';

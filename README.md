@@ -4,7 +4,7 @@
 
 [//]: # '<img width="160" src="https://avatars.githubusercontent.com/u/17870709?v=4">'
 
-<h1>ims-template</h1>
+<h1>ims-indexed-db</h1>
 
 一个开发 npm 项目的模板
 
@@ -25,7 +25,7 @@
 <!-- gitpod url -->
 
 [gitpod-badge]: https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod
-[gitpod-url]: https://gitpod.io/#https://github.com/ant-design/ims-template
+[gitpod-url]: https://gitpod.io/#https://github.com/ant-design/ims-indexed-db
 
 <!-- umi url -->
 
@@ -34,24 +34,24 @@
 
 <!-- npm url -->
 
-[npm-image]: http://img.shields.io/npm/v/ims-template.svg?style=flat-square&color=deepgreen&label=latest
-[npm-url]: http://npmjs.org/package/ims-template
-[npm-size]: https://img.shields.io/bundlephobia/minzip/ims-template?color=deepgreen&label=gizpped%20size&style=flat-square
-[npm-size-url]: https://packagephobia.com/result?p=ims-template
+[npm-image]: http://img.shields.io/npm/v/ims-indexed-db.svg?style=flat-square&color=deepgreen&label=latest
+[npm-url]: http://npmjs.org/package/ims-indexed-db
+[npm-size]: https://img.shields.io/bundlephobia/minzip/ims-indexed-db?color=deepgreen&label=gizpped%20size&style=flat-square
+[npm-size-url]: https://packagephobia.com/result?p=ims-indexed-db
 
 <!-- coverage -->
 
-[coverage]: https://codecov.io/gh/eternallycyf/ims-template/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/eternallycyf/ims-template/branch/master
+[coverage]: https://codecov.io/gh/eternallycyf/ims-indexed-db/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/eternallycyf/ims-indexed-db/branch/master
 
 <!-- Github CI -->
 
-[test-ci]: https://github.com/eternallycyf/ims-template/workflows/Test%20CI/badge.svg
-[release-ci]: https://github.com/eternallycyf/ims-template/workflows/Release%20CI/badge.svg
-[test-ci-url]: https://github.com/eternallycyf/ims-template/actions?query=workflow%3ATest%20CI
-[release-ci-url]: https://github.com/eternallycyf/ims-template/actions?query=workflow%3ARelease%20CI
-[download-image]: https://img.shields.io/npm/dm/ims-template.svg?style=flat-square
-[download-url]: https://npmjs.org/package/ims-template
+[test-ci]: https://github.com/eternallycyf/ims-indexed-db/workflows/Test%20CI/badge.svg
+[release-ci]: https://github.com/eternallycyf/ims-indexed-db/workflows/Release%20CI/badge.svg
+[test-ci-url]: https://github.com/eternallycyf/ims-indexed-db/actions?query=workflow%3ATest%20CI
+[release-ci-url]: https://github.com/eternallycyf/ims-indexed-db/actions?query=workflow%3ARelease%20CI
+[download-image]: https://img.shields.io/npm/dm/ims-indexed-db.svg?style=flat-square
+[download-url]: https://npmjs.org/package/ims-indexed-db
 
 </div>
 
@@ -71,7 +71,7 @@
 推荐使用 `pnpm` 安装
 
 ```bash
-pnpm i ims-template -S
+pnpm i ims-indexed-db -S
 ```
 
 ### 使用
@@ -113,20 +113,20 @@ This project is [MIT](./LICENSE) licensed.
 
 <!-- contributors -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/eternallycyf/ims-template.svg?style=flat
-[contributors-url]: https://github.com/eternallycyf/ims-template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/eternallycyf/ims-indexed-db.svg?style=flat
+[contributors-url]: https://github.com/eternallycyf/ims-indexed-db/graphs/contributors
 
 <!-- forks -->
 
-[forks-shield]: https://img.shields.io/github/forks/eternallycyf/ims-template.svg?style=flat
-[forks-url]: https://github.com/eternallycyf/ims-template/network/members
+[forks-shield]: https://img.shields.io/github/forks/eternallycyf/ims-indexed-db.svg?style=flat
+[forks-url]: https://github.com/eternallycyf/ims-indexed-db/network/members
 
 <!-- stargazers -->
 
-[stargazers-shield]: https://img.shields.io/github/stars/eternallycyf/ims-template.svg?style=flat
-[stargazers-url]: https://github.com/eternallycyf/ims-template/stargazers
+[stargazers-shield]: https://img.shields.io/github/stars/eternallycyf/ims-indexed-db.svg?style=flat
+[stargazers-url]: https://github.com/eternallycyf/ims-indexed-db/stargazers
 
 <!-- issues -->
 
-[issues-shield]: https://img.shields.io/github/issues/eternallycyf/ims-template.svg?style=flat
-[issues-url]: https://github.com/eternallycyf/ims-template/issues/new/choose
+[issues-shield]: https://img.shields.io/github/issues/eternallycyf/ims-indexed-db.svg?style=flat
+[issues-url]: https://github.com/eternallycyf/ims-indexed-db/issues/new/choose

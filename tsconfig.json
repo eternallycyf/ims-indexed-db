@@ -17,13 +17,27 @@
     "module": "ESNext",
     "sourceMap": true,
     "baseUrl": ".",
-    "types": ["vitest/globals"],
+    "types": [
+      "vitest/globals"
+    ],
     "paths": {
-      "@@/*": [".dumi/tmp/*"],
-      "@/*": ["./src"],
-      "ims-template": ["./src"],
-      "ims-template/*": ["./src/*"]
+      "@@/*": [
+        ".dumi/tmp/*"
+      ],
+      "@/*": [
+        "./src"
+      ],
+      "ims-indexed-db": [
+        "./src"
+      ],
+      "ims-indexed-db/*": [
+        "./src/*"
+      ]
     }
   },
-  "exclude": ["node_modules", "dist", "server"]
+  "exclude": [
+    "node_modules",
+    "dist",
+    "server"
+  ]
 }
