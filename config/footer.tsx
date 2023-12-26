@@ -38,8 +38,13 @@ export const footer = [
         openExternal: true,
       },
       {
-        title: 'ims-indexed-db',
-        url: 'https://ims-indexed-db.vercel.app/components/create-indexed-db-helper',
+        title: 'ims-IndexedDB',
+        url: 'https://components-eternallycyf.vercel.app/',
+        openExternal: true,
+      },
+      {
+        title: '@ims-view/components',
+        url: 'https://ims-graph.vercel.app/components/graph-chart',
         openExternal: true,
       },
     ],
