@@ -6,7 +6,7 @@ hero:
     - text: 快速上手
       link: /components
     - text: Github
-      link: https://github.com/eternallycyf/ims-view/
+      link: https://github.com/eternallycyf/ims-indexed-db/
 ---
 
 <embed src="../README.md"></embed>
